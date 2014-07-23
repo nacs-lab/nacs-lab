@@ -1,0 +1,3 @@
+[submodule "py-mixnv"]
+	path = py-mixnv
+	url = git@bitbucket.org:yuyichao/py-mixnv.git
