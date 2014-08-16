@@ -1,3 +1,6 @@
 [submodule "py-mixnv"]
 	path = py-mixnv
-	url = git@bitbucket.org:nacs-lab/py-mixnv.git
+	url = git://github.com/nacs-lab/py-mixnv.git
+[submodule "yyc-data"]
+	path = yyc-data
+	url = git://github.com/nacs-lab/yyc-data.git
