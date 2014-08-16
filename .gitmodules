@@ -4,3 +4,6 @@
 [submodule "yyc-data"]
 	path = yyc-data
 	url = git://github.com/nacs-lab/yyc-data.git
+[submodule "enclosure"]
+	path = enclosure
+	url = git://github.com/nacs-lab/enclosure.git
