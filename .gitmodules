@@ -1,6 +1,6 @@
-[submodule "py-mixnv"]
-	path = py-mixnv
-	url = git://github.com/nacs-lab/py-mixnv.git
+[submodule "py-windfreak"]
+	path = py-windfreak
+	url = git://github.com/nacs-lab/py-windfreak.git
 [submodule "yyc-data"]
 	path = yyc-data
 	url = git://github.com/nacs-lab/yyc-data.git
